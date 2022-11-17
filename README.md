@@ -10,12 +10,9 @@ seo:
 
 # The MCB Open Access Project
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+> Disclaimers: The MCB Open Access Project is created among students to share their experiences with MCB upper division classes. Although the professors gracefully gave permissions for us to share the resources they curated, they are not affiliated with this project nor do they endorse it.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+> Our professors who created the content reserve the right to revoke the given permission for us to share the content at any time.
 
 Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
 

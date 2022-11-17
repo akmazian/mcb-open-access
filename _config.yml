@@ -30,7 +30,7 @@ permalink: pretty
 aux_links:
   Kevin Lin:
     - 'https://kevinl.info'
-  Just the Class on GitHub:
+  Github Repo:
     - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
@@ -63,6 +63,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: ''
+      type: courses
+    values:
+      layout: course
 
 compress_html:
   clippings: all
