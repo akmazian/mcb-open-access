@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Just the Class
+title: MCB Open Access
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Just the Class
+  name: MCB Open Access
 ---
 
-# Just the Class
+# The MCB Open Access Project
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
