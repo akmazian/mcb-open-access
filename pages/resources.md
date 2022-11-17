@@ -1,4 +1,5 @@
 ---
+permalink: "/resources/"
 layout: page
 title: Resources
 description: Listing of available resources for intended and declared MCB Majors

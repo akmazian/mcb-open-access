@@ -1,4 +1,5 @@
 ---
+permalink: "/announcements/"
 layout: page
 title: Announcements
 nav_exclude: true

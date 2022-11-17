@@ -1,4 +1,5 @@
 ---
+permalink: "/the_team/"
 layout: page
 title: The Team
 description: A listing of all the team members working on the project.

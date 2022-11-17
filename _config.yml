@@ -23,7 +23,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
@@ -33,6 +33,7 @@ aux_links:
   Github Repo:
     - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
+include: ['_mcb140']
 
 # Collections for website data
 collections:
@@ -40,6 +41,8 @@ collections:
   modules:
   schedules:
   announcements:
+  courses:
+
 # Default layouts for each collection type
 defaults:
   - scope:

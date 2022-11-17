@@ -1,4 +1,5 @@
 ---
+permalink: "/courses/"
 layout: page
 title: Courses
 nav_exclude: true
