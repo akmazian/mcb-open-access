@@ -8,6 +8,8 @@ description: List of All Available Classes
 
 # Available Classes
 
-{% for course in site.courses %}
+{% assign courses = site.courses %}
+{% for course in courses %}
 {{ course }}
+{{ course.note }}
 {% endfor %}

@@ -17,7 +17,7 @@
     border-bottom: $border $border-color;
     border-top: $border $border-color;
     display: grid;
-    grid-template-columns: max-content 1fr;
+    grid-template-columns: max-content 2fr;
     margin: $sp-2 (-$sp-4);
 
     &:first-child {
@@ -29,7 +29,7 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      grid-template-columns: 1.5fr 7fr;
     }
 
     %module-item {
@@ -45,7 +45,7 @@
       @extend %module-item;
       border-top: $border $border-color;
       font-weight: normal;
-      text-align: right;
+      text-align: left;
 
       +dd {
         border-top: $border $border-color;
@@ -59,9 +59,9 @@
         }
       }
 
-      &::after {
-        content: ":";
-      }
+    //   &::after {
+    //     content: ":";
+    //   }
     }
 
     >dd {

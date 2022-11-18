@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MCB Open Access
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+tagline: 
+description: A open source platform to share information about MCB Courses to everyone interested in Biology.
+author: AZ Zhang
 baseurl: '/mcb-open-access' # the subpath of your site, e.g. /blog
 url: 'https://akmazian.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -28,10 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
   Github Repo:
-    - 'https://github.com/kevinlin1/just-the-class'
+    - 'https://github.com/akmazian/mcb-open-access'
 footer_content:
 include: ['_mcb140']
 
@@ -70,7 +68,7 @@ defaults:
       path: ''
       type: courses
     values:
-      layout: course
+      layout: module
 
 compress_html:
   clippings: all

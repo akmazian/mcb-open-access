@@ -10,8 +10,11 @@ seo:
 
 # The MCB Open Access Project
 
-> Disclaimers: The MCB Open Access Project is created among students to share their experiences with MCB upper division classes. Although the professors gracefully gave permissions for us to share the resources they curated, they are not affiliated with this project nor do they endorse it.
-
+{: .important-title }
+> Disclaimers
+>
+> The MCB Open Access Project is created among students to share their experiences with MCB upper division classes. Although the professors gracefully gave permissions for us to share the resources they curated, they are not affiliated with this project nor do they endorse it.
+>
 > Our professors who created the content reserve the right to revoke the given permission for us to share the content at any time.
 
 ## Upper Division Class Directory

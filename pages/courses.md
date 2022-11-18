@@ -11,4 +11,5 @@ description: A directory containing all of the courses.
 {% assign courses = site.courses | reverse %}
 {% for course in courses %}
 {{ course }}
+{{ note }}
 {% endfor %}
