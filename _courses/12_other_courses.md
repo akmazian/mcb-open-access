@@ -1,6 +1,6 @@
 ---
 title: Other MCB Courses
-nav_order: 1
+nav_order: 12
 ---
 
 MCB Seminars
@@ -12,8 +12,8 @@ MCB 98
   : **To Be Started**{: .label .label-purple }
 
 MCB H196A/H196B/H199
-: MCB Upper Division & Honors Research H196A/H196B,  H199, and To Be Started
-  : **🔗**{: .label .label-purple }
+: MCB Honors Research
+  : **To Be Started**{: .label .label-purple }
 
 MCB C175
 : LSBE Capstone
