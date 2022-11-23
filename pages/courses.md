@@ -8,7 +8,7 @@ description: A directory containing all of the courses.
 
 # Courses
 
-{% assign courses = site.courses | reverse %}
+{% assign courses = site.courses %}
 {% for course in courses %}
 {{ course }}
 {{ note }}
